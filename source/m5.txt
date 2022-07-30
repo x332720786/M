@@ -31,7 +31,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://cdn.jsdelivr.net/gh/x332720786/M@main/custom_spider0720.jar"
+"ext": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/94sm.json"
 },
 {
 "key": "csp_xpath_age",
@@ -41,7 +41,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://cdn.jsdelivr.net/gh/x332720786/M@main/custom_spider0720.jar"
+"ext": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/agefans.json""
 },
 {
 "key": "csp_xpath_jpyszl",
@@ -51,7 +51,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://cdn.jsdelivr.net/gh/x332720786/M@main/custom_spider0720.jar"
+"ext": "https://cdn.jsdelivr.net/gh/x332720786/M@main/xp/jpys.json"
 },
 {"key":"csp_biubiu_喜鹊视频","name":"喜鹊视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/喜鹊视频.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/x332720786/M@main/MeowXB/瓜皮TV.json"},
