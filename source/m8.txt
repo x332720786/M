@@ -417,7 +417,7 @@
 ]
 }
 ],
-"spider":"https://gitea.com/qixiubaike163/m/raw/branch/main/custom_spider0701.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
+"spider":"https://gitea.com/qixiubaike163/m/raw/branch/main/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
